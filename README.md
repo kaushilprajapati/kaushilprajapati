@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a motivated and ambitious Mobile and Web App Developer with a passion for crafting cutting-edge digital solutions. My journey in the world of app development is just beginning, and I am excited to contribute my skills and eagerness to learn to make a meaningful impact in the industry.
+I am a motivated and ambitious Software Developer with a passion for crafting cutting-edge digital solutions. My journey in the world of app development is just beginning, and I am excited to contribute my skills and eagerness to learn to make a meaningful impact in the industry.
 
 📱 Mobile App Development:
 I am enthusiastic about mobile app development and have gained hands-on experience in languages like Java and Swift. I am eager to dive into cross-platform development tools like React Native and Flutter to broaden my skillset and deliver apps that cater to diverse audiences.
